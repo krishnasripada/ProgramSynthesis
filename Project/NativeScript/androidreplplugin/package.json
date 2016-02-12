@@ -1,0 +1,8 @@
+{
+  "name" : "nativescript-androidrepl",
+  "version": "0.0.1",
+  "main": "index.js",
+  "nativescript": {
+    "id": "org.nativescript.androidreplplugin"
+  }
+}

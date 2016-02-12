@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/krishnachaitanyasripada/GitHub/NativeScript/androidreplplugintest/platforms/android/libs/androidrepl.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d074e890b030fa064901d3bcf7e9dc69d85f2c8e">
+        <dex dex="/Users/krishnachaitanyasripada/GitHub/NativeScript/androidreplplugintest/platforms/android/build/intermediates/pre-dexed/debug/androidrepl-0c987d8859839888154eecc21f7fa1826bdd2603.jar" />
+    </item>
+    <item
+        jar="/Users/krishnachaitanyasripada/GitHub/NativeScript/androidreplplugintest/platforms/android/libs/js.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="52ea5391619be0e750a878d496ca175032f725bd">
+        <dex dex="/Users/krishnachaitanyasripada/GitHub/NativeScript/androidreplplugintest/platforms/android/build/intermediates/pre-dexed/debug/js-7355f559d43fac9c2d87b408ab251ddc05f3df3f.jar" />
+    </item>
+    <item
+        jar="/Users/krishnachaitanyasripada/GitHub/NativeScript/androidreplplugintest/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/krishnachaitanyasripada/GitHub/NativeScript/androidreplplugintest/platforms/android/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-9b405d517a64984826a61ae302eafe90accea978.jar" />
+    </item>
+    <item
+        jar="/Users/krishnachaitanyasripada/GitHub/NativeScript/androidreplplugintest/platforms/android/libs/nativescript.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1d46c3db9993eff186f8a7623e458196aee5310a">
+        <dex dex="/Users/krishnachaitanyasripada/GitHub/NativeScript/androidreplplugintest/platforms/android/build/intermediates/pre-dexed/debug/nativescript-a9a5a18c4e877d9f97b3375b2985ea46b82d0888.jar" />
+    </item>
+    <item
+        jar="/Users/krishnachaitanyasripada/GitHub/NativeScript/androidreplplugintest/platforms/android/libs/widgets.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="794e6ba3ae491b9313268ca73b1b0f8d5decd165">
+        <dex dex="/Users/krishnachaitanyasripada/GitHub/NativeScript/androidreplplugintest/platforms/android/build/intermediates/pre-dexed/debug/widgets-0a10b9c03ad37e9f8046598dbfe148ddd62cf269.jar" />
+    </item>
+    <item
+        jar="/Users/krishnachaitanyasripada/GitHub/NativeScript/androidreplplugintest/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/krishnachaitanyasripada/GitHub/NativeScript/androidreplplugintest/platforms/android/build/intermediates/pre-dexed/debug/classes-6545be2890b5fe9de7a68f388db4b41c95f0b7cf.jar" />
+    </item>
+    <item
+        jar="/Users/krishnachaitanyasripada/GitHub/NativeScript/androidreplplugintest/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/krishnachaitanyasripada/GitHub/NativeScript/androidreplplugintest/platforms/android/build/intermediates/pre-dexed/debug/classes-f42919ddee4075d076067ad7843d03c0072b35d3.jar" />
+    </item>
+    <item
+        jar="/Users/krishnachaitanyasripada/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/krishnachaitanyasripada/GitHub/NativeScript/androidreplplugintest/platforms/android/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-9e3d2b9a0aff0681bb8a95ea30598bf48e2ef701.jar" />
+    </item>
+
+</items>

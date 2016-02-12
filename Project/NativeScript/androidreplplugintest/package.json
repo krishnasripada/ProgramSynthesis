@@ -1,0 +1,12 @@
+{
+	"nativescript": {
+		"id": "org.nativescript.androidreplplugintest",
+		"tns-android": {
+			"version": "1.4.0"
+		}
+	},
+	"dependencies": {
+		"nativescript-androidrepl": "file:../androidreplplugin",
+		"tns-core-modules": "1.4.0"
+	}
+}

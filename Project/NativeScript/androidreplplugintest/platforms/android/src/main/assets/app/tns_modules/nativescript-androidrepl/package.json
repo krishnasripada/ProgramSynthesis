@@ -1,0 +1,14 @@
+{
+  "name": "nativescript-androidrepl",
+  "version": "0.0.1",
+  "main": "index.js",
+  "nativescript": {
+    "id": "org.nativescript.androidreplplugin"
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "nativescript-androidrepl@0.0.1",
+  "scripts": {},
+  "_shasum": "ccd1cc1ba91d49a12de01d8dc229eb2ba8709d0b",
+  "_from": "../androidreplplugin",
+  "_resolved": "file:../androidreplplugin"
+}
